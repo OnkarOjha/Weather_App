@@ -3,5 +3,6 @@ This is a Live weather app which is capable of showing the weather of any area o
 
 The project is live on :- https://onkar-web.000webhostapp.com/
 
-Demo :- https://github.com/OnkarOjha/Weather_App/blob/main/web_app_image.PNG
+Demo :- ![web_app_image](https://user-images.githubusercontent.com/97879633/153459650-fcd7f0ed-df92-4330-a731-a641999026fd.PNG)
+
 
